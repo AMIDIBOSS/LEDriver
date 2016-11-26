@@ -1,0 +1,9 @@
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\bin\Debug\LEDriver.exe.config
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.csprojResolveAssemblyReference.cache
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.Form1.resources
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.Properties.Resources.resources
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.csproj.GenerateResource.Cache
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\bin\Debug\LEDriver.exe
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\bin\Debug\LEDriver.pdb
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.exe
+c:\users\ppp\documents\visual studio 2015\Projects\LEDriver\LEDriver\obj\Debug\LEDriver.pdb
